@@ -1,0 +1,526 @@
+body{
+    margin: 0px;
+}
+
+.Align-Center{
+    text-align: center;
+}
+
+.Font-Color{
+    color: white;
+}
+
+.Font-Family{
+    font-family:'Alegreya', serif;
+}
+
+.Font-Family-Sans{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.tColor{
+    color: #303030;
+}
+
+.pColor{
+    color: #686868;
+}
+
+.ClearFix{
+    clear: both;
+}
+
+.Parent{
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: auto;
+}
+
+.bg-color{
+    background-color: rgba(0, 0, 0, 0.152);
+}
+
+.Welcome{
+    display: inline-block;
+}
+
+.Welcome img{
+    vertical-align: middle;
+    width: 176.5px;
+    margin-left: 139.6px;
+    margin-top: 12px;
+    padding-left: 15.938px;
+
+}
+
+.List{
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 31px;
+    margin-left: 498px;
+    padding-right: 15.938px;
+}
+
+.Anchor{
+    text-decoration: none;
+}
+
+
+.NavItem{
+    display: inline;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+.To{
+    font-size: 22px;
+    padding-top: 188px;
+    margin: 0px;
+    margin-bottom: 1px;
+}
+
+.Family{
+    font-size: 76px;
+    margin: 0px;
+    font-weight: 300;
+}
+
+.We{
+    font-size: 24px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.Anc{
+    display: inline-block;
+}
+
+.Learn{
+    background-color: #8e7754;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 15px 28px;
+}
+
+.Contact{
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 700;
+    border: 1px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 15px 28px;
+    margin-left: 5px;
+}
+
+.Links{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.centre{
+    text-align: center;
+}
+
+.dot{
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 11px 12px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 26;
+    font-weight: 800;
+}
+
+.Bread{
+    display: inline-block;
+    padding-left: 139.6;
+    padding-top: 90;
+    width: 42.5%;
+}
+
+.Bread img{
+    width: 562.5px;
+    vertical-align: middle;
+
+}
+
+.who{
+    display: inline-block;
+    vertical-align: middle;
+    width: 36.5%;
+    padding-bottom: 35px;
+}
+
+.Section2_title{
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.Section2_paragraph{
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.logos{
+    display: inline-block;
+}
+
+.Icon img{
+    display: inline-block;
+    border: 1px;
+    border-style: solid;
+    border-radius: 50% 50%;
+    width: 50px;
+}
+
+.Section2_list{
+    display: inline-block;
+}
+
+.Section2_list ul{
+    padding: 0px;
+}
+
+.Section2_items{
+    list-style-type: none;
+    vertical-align: middle;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.Section2_items img{
+    width: 39px;
+    vertical-align: middle;
+    border: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #EAEAEA;
+    margin-right: 10px;
+}
+
+#Section3{
+    background-color: #f8f8f8;
+    margin-top: 60px;
+    padding: 75px 139.4px;
+}
+
+#Section3 img{
+    width: 500px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Location_image{
+    display: inline-block;
+    width: 35.5%;
+    padding: 15px 0px;
+}
+
+.Our_Location{
+    display: inline-block;
+    padding: 2%;
+    margin-right: 20px;
+}
+
+.pSection3{
+    line-height: 34px;
+}
+
+.Story{
+    line-height: 34px;
+}
+
+.Our_Location{
+    vertical-align: middle;
+}
+
+.hSection3{
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.L-Side{
+    width: 43.5%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 116px;
+}
+
+.pSection3{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.Story{
+    font-size: 17px;
+    margin: 0px;
+}
+
+.Section4{
+    padding-left: 139.4;
+    padding-right: 139.6;
+}
+
+.HSection4{
+    text-align: center ;
+    margin-top: 10px;
+}
+
+.HSection4 h2{
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.PSection4{
+    font-size: 17px;
+    text-align: center;
+}
+
+.Section4-Padding{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.products{
+    float: left;
+    text-align: center;
+    width: 30.3333%;
+    padding-right: 20px;
+    padding-left: 15px;
+    margin-top: 60px;
+    margin-right: 2px;
+}
+
+.products img{
+    width: 377px;
+}
+
+.products h3{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.products p{
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.pProducts{
+    width: 50px;
+}
+
+#Section5{
+    background-color: #F8F8F8;
+}
+
+.Contact-info{
+    float: left;
+    width: 47.5%;
+}
+
+.Contact-info h2{
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.Contact-info p{
+    line-height: 30px;
+}
+
+.Contact-info h3{
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 37px;
+}
+
+.Section5-padding{
+    padding: 85px 139px;
+}
+
+.LSide5{
+    padding: 20px 15px 0px;
+}
+
+.iFrame{
+    float: left;
+    width: 47.5%;
+    padding: 20px;
+}
+
+.Section5-list{
+    display: inline-block;
+    padding: 0px;
+}
+
+.Section5-items{
+    list-style-type: none;
+    vertical-align: middle;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.Section5-items img{
+    width: 35px;
+    vertical-align: middle;
+    border: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #EAEAEA;
+    margin-right: 10px;
+    background-color: #8D7854;
+}
+
+.Section6{
+    background-color: #403D38;
+}
+
+.Section6-Padding{
+    padding: 60px 0px 52px 108px;
+}
+
+.Section6 ul{
+    padding: 0px;
+}
+
+.Section6 h4{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 25px;
+    margin-top: 0px;
+}
+
+.Section6 p{
+    color: #969696;
+    line-height: 28px;
+}
+.Section6 li{
+    color: #969696;
+    line-height: 33px;
+}
+
+.About{
+    float: left;
+    width: 25%;
+    padding: 0px 16px;
+    width: 20%;
+}
+
+.S6-p1{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.S6-p2{
+    font-size: 16px;
+}
+
+.Special{
+    float: left;
+    width: 25%;
+    padding: 0px 16px;
+    width: 20%;
+}
+
+.Section6-Items{
+    list-style-type: none;
+    vertical-align: middle;
+    font-size: 16px;
+    margin-bottom: 6px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #4A4742;
+}
+
+.Section6-Items img{
+    width: 13px;
+    padding-right: 8px;
+}
+
+.Hours{
+    float: left;
+    width: 25%;
+    padding: 0px 16px;
+    width: 20%;
+}
+
+.Details{
+    float: left;
+    width: 25%;
+    padding: 0px 16px;
+    width: 20%;
+}
+
+.Details-bg{
+    background-image: url(images/contact-details-map.png);
+    background-position:center center ;
+    background-repeat: no-repeat;
+}
+
+.thirdList{
+    background-color: rgba(64, 61, 56, 0.86)
+}
+
+.thirdList-Items img{
+    width: 30px;
+    vertical-align: middle;
+}
+
+.thirdList-Items{
+    list-style-type: none;
+    vertical-align: middle;
+    font-size: 16px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #4A4742;
+}
+
+.Last-Item{
+    border: none;
+}
+
+.Section7{
+    padding: 50px 0px 40px;
+    background-color: #353330;
+}
+
+.Social img{
+    width: 40px;
+    margin-right: 8px;
+    background-color: #484540;
+    border-radius: 50% 50%;
+}
+
+.Social{
+    float: left;
+    color: #777777;
+}
+
+.Social-Media{
+    display: inline-block;
+    margin-top: 15px;
+    padding-top: 8px;
+}
+
+.Section7{
+    text-align: center;
+}
+
+.S7-img{
+    margin: 10px 0px 25px;
+}
+
+.copyright{
+    color: #777777;
+    font-size: 15px;
+    margin-top: 5px;
+}
